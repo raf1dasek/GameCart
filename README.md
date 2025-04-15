@@ -33,7 +33,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/raf1dasek/game-cart.git
+   git clone https://github.com/raf1dasek/GameCart.git
 
   
  2. Move the project folder to your XAMPP htdocs directory.
