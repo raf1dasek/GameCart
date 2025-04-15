@@ -44,6 +44,11 @@
 
  5.Access the website from your browser: http://localhost/gc1
 
+## ER Diagram
+![image](https://github.com/user-attachments/assets/d77b524a-7a4c-42b6-bbee-69d3dd3e07dc)
+
+ 
+
 ##  Future Improvements
 Add interactive design and animations using JavaScript.
 
